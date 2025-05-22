@@ -1,1 +1,0 @@
-EnergyListing.tsx

@@ -1,1 +1,0 @@
-CertificateCard.tsx
