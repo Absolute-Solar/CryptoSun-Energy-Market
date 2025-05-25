@@ -4,7 +4,7 @@
 [![GitHub stars](https://img.shields.io/github/stars/Absolute-Solar/cryptosun-energy-market.svg)](https://github.com/Absolute-Solar/cryptosun-energy-market/stargazers)
 [![GitHub issues](https://img.shields.io/github/issues/Absolute-Solar/cryptosun-energy-market.svg)](https://github.com/Absolute-Solar/cryptosun-energy-market/issues)
 
-## 🌞 Overview
+## Overview
 
 CryptoSun is a revolutionary blockchain-based marketplace for renewable energy trading, focusing on solar energy production and consumption. The platform leverages blockchain technology to create a decentralized energy ecosystem that:
 
@@ -13,7 +13,7 @@ CryptoSun is a revolutionary blockchain-based marketplace for renewable energy t
 - Provides transparent pricing and real-time energy market access
 - Creates economic incentives for renewable energy adoption
 
-## 🔑 Key Features
+## Key Features
 
 - **Decentralized Energy Trading**: Direct P2P energy exchange between producers and consumers
 - **Tokenized Solar Assets**: Solar Energy Tokens (SETs) backed by actual energy production
@@ -23,7 +23,7 @@ CryptoSun is a revolutionary blockchain-based marketplace for renewable energy t
 - **Support for Energy Storage**: Integration with battery storage systems
 - **Microgrids Support**: Enable community-based energy sharing networks
 
-## ⚙️ Technical Architecture
+## Technical Architecture
 
 CryptoSun is built on a multi-layered architecture:
 
@@ -32,7 +32,7 @@ CryptoSun is built on a multi-layered architecture:
 3. **Integration Layer**: APIs and interfaces for hardware integration and external services
 4. **Application Layer**: User interfaces for different stakeholders
 
-## 🔧 Smart Contracts
+## Smart Contracts
 
 The repository includes the following core contracts:
 
@@ -43,7 +43,7 @@ The repository includes the following core contracts:
 - `EnergyStorage.sol`: Integration with battery storage systems
 - `MicrogridController.sol`: Manages local energy community operations
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 
@@ -83,7 +83,7 @@ INFURA_API_KEY=your_infura_api_key
 ETHERSCAN_API_KEY=your_etherscan_api_key
 ```
 
-## 📊 Market Mechanism
+## Market Mechanism
 
 CryptoSun implements a unique market mechanism where:
 
@@ -93,7 +93,7 @@ CryptoSun implements a unique market mechanism where:
 4. Settlement occurs in real-time with transparent pricing
 5. Energy distribution is coordinated with grid operators through oracles
 
-## 🔒 Security
+## Security
 
 CryptoSun implements several security measures:
 
@@ -102,7 +102,7 @@ CryptoSun implements several security measures:
 - Rate limiting for token minting based on verified production
 - Oracle data verification and cross-checking
 
-## 🌐 Use Cases
+## Use Cases
 
 - **Residential Solar Producers**: Monetize excess energy production
 - **Energy Consumers**: Purchase renewable energy directly from producers
@@ -110,7 +110,7 @@ CryptoSun implements several security measures:
 - **Investors**: Participate in renewable energy markets through tokenized assets
 - **Community Microgrids**: Enable local energy trading and resilience
 
-## 🔮 Future Roadmap
+## Future Roadmap
 
 1. **Q3 2025**: Launch of initial marketplace with basic P2P trading
 2. **Q4 2025**: Integration with major solar panel manufacturers for automated SET minting
@@ -118,7 +118,7 @@ CryptoSun implements several security measures:
 4. **Q2 2026**: Microgrid support for community-based energy trading
 5. **Q3 2026**: Cross-chain interoperability for larger market reach
 
-## 🤝 Contributing
+## Contributing
 
 We welcome contributions to the CryptoSun Energy Market! Please follow these steps:
 
@@ -130,21 +130,14 @@ We welcome contributions to the CryptoSun Energy Market! Please follow these ste
 
 Please read [CONTRIBUTING.md](CONTRIBUTING.md) for detailed guidelines.
 
-## 📜 License
+## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 📚 Documentation
+## Documentation
 
 Comprehensive documentation is available at [docs.cryptosun.energy](https://docs.cryptosun.energy)
 
-## 📞 Contact
-
-- Website: [cryptosun.energy](https://cryptosun.energy)
-- Email: info@cryptosun.energy
-- Twitter: [@CryptoSunEnergy](https://twitter.com/CryptoSunEnergy)
-- Telegram: [t.me/CryptoSunCommunity](https://t.me/CryptoSunCommunity)
-
-## ⚠️ Disclaimer
+## Disclaimer
 
 CryptoSun is an experimental technology. Use at your own risk. Always consult with legal and regulatory experts before implementing energy trading solutions.
